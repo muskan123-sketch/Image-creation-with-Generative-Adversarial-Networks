@@ -1,0 +1,2 @@
+# Image-creation-with-Generative-Adversarial-Networks
+I used the  images in the training dataset as the basis for training a Generative Adversarial Network.  Specifically, the generator model will learn how to generate new plausible photographs of objects using a discriminator that will try and distinguish between real images from the CIFAR10 training dataset and new images output by the generator model.
